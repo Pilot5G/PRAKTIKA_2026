@@ -1,0 +1,21 @@
+{
+  "source": "synthetic",
+  "target": "buildings",
+  "classes": 2,
+  "size": 128,
+  "total": 400,
+  "splits": {
+    "train": {
+      "count": 280,
+      "mean_object_coverage": 0.0586
+    },
+    "val": {
+      "count": 60,
+      "mean_object_coverage": 0.0546
+    },
+    "test": {
+      "count": 60,
+      "mean_object_coverage": 0.0564
+    }
+  }
+}
